@@ -9,5 +9,5 @@ Before we can jump into creating custom, grid-based simulations, we need to unde
 >
 1. Download the Object-Oriented Programming playground from [here](https://github.com/MakeSchool-Tutorials/Intro-Object-Oriented-Programming-Playground/archive/master.zip).
 1. Double-click the downloaded zip file to "extract it".
-1. Inside the newly extracted folder you should see a file named `Variables.playground`, drag this into your "Make School Projects" folder.
-1. Open your "Make School Projects" folder and double-click `Variables.playground` to get started! -->
+1. Inside the newly extracted folder you should see a file named `OOP.playground`, drag this into your "Make School Projects" folder.
+1. Open your "Make School Projects" folder and double-click `OOP.playground` to get started!

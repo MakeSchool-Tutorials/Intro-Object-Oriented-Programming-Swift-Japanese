@@ -1,8 +1,8 @@
 ---
-title: "Wrapping up Object-Oriented Programming"
+title: "オブジェクト指向プログラミングのラッピング"
 slug: wrapping-up
 ---
 
-Hopefully you had fun with this zoo simulation! As you progressed through the challenges, you should have learned about objects, classes, and how to leverage inheritance to make your code cleaner.
+この動物園シミュレーションを楽しんでもらえたのであれば幸いです！課題を進めていく中で、オブジェクト、クラス、そして継承を使ってコードを見やすくする方法を学んだはずです。
 
 <!-- - Bullet list of key concepts -->

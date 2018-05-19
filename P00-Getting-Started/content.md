@@ -1,13 +1,13 @@
 ---
-title: "Introducing Object-Oriented Programming"
+title: "オブジェクト指向プログラミングの紹介"
 slug: oop-playground
 ---
 
-Before we can jump into creating custom, grid-based simulations, we need to understand a bit about _Object-Oriented Programming_. Let's take a look and create some animals to model a zoo!
+独自のグリッドベースのシミュレーションを作り始める前に、少しオブジェクト指向プログラミングについて理解する必要があります。そこで、動物をいくつか作って、動物園をモデル化してみましょう！
 
 > [action]
 >
-1. Download the Object-Oriented Programming playground from [here](https://github.com/MakeSchool-Tutorials/Intro-Object-Oriented-Programming-Playground/archive/swift4.zip).
-1. Double-click the downloaded zip file to "extract it".
-1. Inside the newly extracted folder you should see a file named `OOP.playground`, drag this into your "Make School Projects" folder.
-1. Open your "Make School Projects" folder and double-click `OOP.playground` to get started!
+1. オブジェクト指向プログラミングのPlaygroundを以下からダウンロードしてください[こちら]（https://github.com/MakeSchool-Tutorials/Intro-Object-Oriented-Programming-Playground/archive/swift4.zip）。
+1. ダウンロードしたzipファイルをダブルクリックして「解凍」してください。
+1. 新たに解凍したフォルダで、`OOP.playground`という名のファイルが見つかりますので、これを「Make School Projects」フォルダにドラッグしてください。
+1. 「Make School Projects」のフォルダを開き、`OOP.playground`をダブルクリックして開始します。
